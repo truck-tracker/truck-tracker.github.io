@@ -2,8 +2,8 @@
 title: Acceptuary
 email: nick@pachulski.me
 url: https://acceptuary.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Actuaries: Study for your exams using flashcards on your iPhone"
+description: "An iOS app helping actuaries to study for their exams with flashcards."
+skills: "For Actuaries.<br>Study with Flashcards on your iPhone"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -24,9 +24,9 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
+  primary: 262626
+  primary-rgb: 0D0D0D
+  secondary: 0D0D0D
   secondary-dark: 233140 #A2122F
 
 # Footer settings
