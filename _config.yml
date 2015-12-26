@@ -3,8 +3,8 @@ title: Acceptuary
 email: nick@pachulski.me
 url: https://acceptuary.github.io
 description: "An iOS app helping actuaries to study for their exams with flashcards."
-skills: "For Actuaries.<br>Study with Flashcards on your iPhone"
-meta_author: LastName FirstName
+skills: "For Actuaries.<br>Study Flashcards on your iPhone"
+meta_author: Pachulski Nick
 
 # Google webmaster tools
 google_verify:
@@ -31,31 +31,23 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Nick Pachulski
   location: Location
-  social: Around the Web
+  social: ''
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: http://twitter.com/acceptuary
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: ''
+  - line: ''
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: ''
 
 # Build settings
 markdown: kramdown
