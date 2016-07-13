@@ -1,9 +1,9 @@
 # Site settings
-title: Acceptuary
+title: Truck Tracker
 email: nick@pachulski.me
-url: https://acceptuary.github.io
-description: "An iOS app helping actuaries to study for their exams with flashcards."
-skills: "For Actuaries.<br>Study Flashcards on your iPhone"
+url: https://truck-tracker.github.io
+description: "Find nearby food trucks in Boston on your iPhone."
+skills: "Find nearby food trucks in Boston on your iPhone."
 meta_author: Pachulski Nick
 
 # Google webmaster tools
@@ -37,9 +37,6 @@ footer:
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/acceptuary
 
 # Postal address (add as many lines as necessary)
 address:
